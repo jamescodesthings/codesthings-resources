@@ -1,0 +1,5 @@
+brand/source/** filter=lfs diff=lfs merge=lfs -text
+profiles/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+profiles/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+profiles/**/*.png filter=lfs diff=lfs merge=lfs -text
+profiles/**/*.heic filter=lfs diff=lfs merge=lfs -text
