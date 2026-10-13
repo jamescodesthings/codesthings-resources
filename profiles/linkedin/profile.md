@@ -36,9 +36,9 @@ Live:
 
 Desired:
 
-    Birmingham, England, United Kingdom
+    Coventry, England, United Kingdom
 
-Status: change pending
+Status: in sync
 
 ## About
 
@@ -56,7 +56,7 @@ Live:
 
 Desired:
 
-    Senior Software Engineer with 14 years across web, mobile and cloud, based in Birmingham and working remotely.
+    Senior Software Engineer with 14 years across web, mobile and cloud, based in Coventry and working remotely.
 
     At Songtradr I worked on the platform that ingests and delivers music across the industry. I re-engineered ingestion from 250k to over a million releases a day, rescued the stalled search rebuild and replaced a legacy Solr service with sub-second search, and built a metadata store that took load off a database costing 30k a month.
 

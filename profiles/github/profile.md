@@ -38,9 +38,9 @@ Live:
 
 Desired:
 
-    Birmingham, UK
+    Coventry, UK
 
-Status: in sync
+Status: change pending
 
 ## Website
 

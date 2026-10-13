@@ -24,9 +24,9 @@ Live:
 
 Desired:
 
-    Software engineer in Birmingham, UK. Parametric parts, FPV whoop canopies and handheld computer cases. More at codesthings.com
+    Software engineer in Coventry, UK. Parametric parts, FPV whoop canopies and handheld computer cases. More at codesthings.com
 
-Status: in sync
+Status: change pending
 
 ## Links
 

@@ -26,13 +26,13 @@ Live:
 
 Desired:
 
-    Software engineer & maker · Birmingham, UK
+    Software engineer & maker · Coventry, UK
     3D-printed parts · FPV · CampSnap photography
     Dad · IBD/Fibromyalgia/ADHD <3
 
 Status: change pending
 
-Note: the only change is the comma, so the location reads "Birmingham, UK" as everywhere else.
+Note: the location changes to "Coventry, UK", as everywhere else. LinkedIn takes Coventry from the postcode, so every profile follows it.
 
 ## Links
 

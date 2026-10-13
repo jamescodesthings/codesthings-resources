@@ -1,6 +1,6 @@
 # James Macmillan
 
-Senior Software Engineer in Birmingham, UK. 14 years across web, mobile and cloud: Node.js, TypeScript and .NET, on GCP and AWS.
+Senior Software Engineer in Coventry, UK. 14 years across web, mobile and cloud: Node.js, TypeScript and .NET, on GCP and AWS.
 
 **[CV](https://codesthings.com/cv) · [LinkedIn](https://www.linkedin.com/in/jamescodesthings/) · [codesthings.com](https://codesthings.com) · james@codesthings.com**
 
