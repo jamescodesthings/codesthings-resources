@@ -124,6 +124,40 @@ Desired:
 
 Status: change pending
 
+## Skills
+
+Live (read on 2026-10-13; LinkedIn only shows the first two per role without opening each one):
+
+    Songtradr: no skills.
+    Engineius: TypeScript, Angular and 5 more.
+    Packt: Apache Cordova, Microservices and 5 more.
+    Severn Trent Water: Apache Cordova, .NET Framework and 4 more.
+
+Desired:
+
+    Per role: the Skills line under each role in experience.md, generated from skills.json plus the CV's tech badges.
+    The first two of each line show on the profile, so they lead. Where LinkedIn's suggestion is named slightly
+    differently, pick its version.
+    Remove a skill from a role when it isn't on that line and wasn't true there (Apache Cordova is the one to check).
+    Top skills, in the About section (five): Node.js, .NET, Google Cloud Platform (GCP), Amazon Web Services (AWS), TypeScript.
+    These match the headline, so a recruiter's search and the first line of the profile agree.
+
+Status: change pending
+
+## Beyond skills
+
+Suggestions, in order of how much they help a senior remote search:
+
+    Recommendations: ask one person from Songtradr and one from Engineius for a short written recommendation.
+    Endorsements: ask two or three former colleagues to endorse the five top skills.
+    Open to Work: recruiters only, titles Senior Software Engineer, Senior Full Stack Engineer and Senior Backend
+    Engineer, remote, United Kingdom.
+    Projects section: the CampSnap filter packs (https://codesthings.com/campsnap), the NativeScript plugins
+    (https://www.npmjs.com/~jamescodesthings) and codesthings.com, each with its own skills.
+    Skill assessments: none to do; LinkedIn withdrew them in 2023.
+
+Status: suggestion
+
 ## Education
 
 Live:

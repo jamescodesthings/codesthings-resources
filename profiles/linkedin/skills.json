@@ -1,0 +1,15 @@
+{
+  "rename": {
+    "GCP": "Google Cloud Platform (GCP)",
+    "AWS": "Amazon Web Services (AWS)",
+    "iOS": "iOS Development",
+    "Android": "Android Development",
+    "Serverless": "Serverless Computing"
+  },
+  "roles": {
+    "Songtradr": ["Node.js", "GCP", "OpenSearch", "AWS", ".NET", "Terraform", "Apache Kafka", "Apache Solr", "Pair Programming", "Extreme Programming (XP)"],
+    "Engineius": ["NativeScript", "iOS", "Android", "Angular", "TypeScript", "Swift", "Objective-C", "Java", ".NET", "Mentoring"],
+    "Packt": ["AWS", "Serverless", "Node.js", "AWS Lambda", "Microservices", "Angular", "Capacitor", "CI/CD", "Mentoring"],
+    "Severn Trent": ["Java", "C#", ".NET", "Spring Framework", "Microsoft SQL Server", "Angular", "TypeScript", "Node.js", "Android", "iOS", "Mobile Device Management (MDM)"]
+  }
+}
