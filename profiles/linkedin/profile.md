@@ -1,7 +1,7 @@
 ---
 platform: linkedin
 url: https://www.linkedin.com/in/jamescodesthings/
-live_read: 2026-10-12
+live_read: 2026-10-13
 ---
 
 ## Name
@@ -42,11 +42,11 @@ Status: in sync
 
 ## About
 
-Live:
+Live (read 2026-10-13; the Songtradr sentence is already fixed, the location is not):
 
     Senior Software Engineer with 14 years across web, mobile and cloud, based in Birmingham and working remotely.
 
-    At Songtradr I worked on the platform that ingests and delivers music across the industry. I re-engineered ingestion from 250k to over a million releases a day, built search that replaced 30-second queries with sub-second ones, and designed a metadata store that took load off a database costing 30k a month.
+    At Songtradr I worked on the platform that ingests and delivers music across the industry. I re-engineered ingestion from 250k to over a million releases a day, built search that returned high quality sub-second results, and implemented a metadata store that took load off a database costing 30k a month.
 
     Before that I rescued a production mobile app that crashed in most sessions, and wrote its native Android and iOS integrations, now open source NativeScript plugins.
 
@@ -56,29 +56,27 @@ Live:
 
 Desired:
 
-    Senior Software Engineer with 14 years across web, mobile and cloud, based in Coventry and working remotely.
-
-    At Songtradr I worked on the platform that ingests and delivers music across the industry. I re-engineered ingestion from 250k to over a million releases a day, rescued the stalled search rebuild and replaced a legacy Solr service with sub-second search, and built a metadata store that took load off a database costing 30k a month.
-
-    Before that I rescued a production mobile app that crashed in most sessions, and wrote its native Android and iOS integrations, now open source NativeScript plugins.
-
-    I work across the stack in Node.js, C#/.NET, on GCP and AWS. I like XP, pairing, simple solutions, and helping the people around me improve, which lately includes adopting AI coding tools safely.
-
-    Open to senior remote roles.
+    Your live text, with "based in Birmingham" changed to "based in Coventry". The Songtradr sentence is fine as it is.
 
 Status: change pending
 
-Note: the live text says search "replaced 30-second queries". The 30s+ figure belongs to the stalled rebuild, not to production queries, so the sentence must change.
+## Contact info
 
-## Website
+Live (read 2026-10-13):
 
-Live:
-
-    TODO (contact info not read)
+    Website: codesthings.com (Personal)
+    Phone: a mobile number is listed
+    Address: Coventry, England, United Kingdom
+    Email: the personal Gmail address
+    Birthday: shown
 
 Desired:
 
-    https://codesthings.com
+    Website: codesthings.com (Personal), as now.
+    Phone: removed. No phone number anywhere is a standing rule.
+    Email: james@codesthings.com, the only public contact, or hide the email from everyone but connections.
+    Birthday: visible to "Only you".
+    Address: leave as it is, or remove; the Location field already says Coventry.
 
 Status: change pending
 
@@ -100,13 +98,10 @@ Status: change pending
 
 ## Experience
 
-Live:
+Live (read 2026-10-13):
 
-    Songtradr, Senior Software Engineer, Mar 2023 to Aug 2026 (Greater London, Remote)
-    Engineius, Senior Software Developer, Jul 2020 to Feb 2023 (Birmingham, Remote)
-    Packt, Senior Front End Developer, Nov 2017 to Jan 2020 (Birmingham)
-    Severn Trent Water, Application Developer, Sep 2012 to Oct 2017
-    Descriptions are long prose with typos ("Typescriopt", "Univesity", "changedwith", "SQL Sever").
+    Bullets on all four roles match experience.md word for word.
+    No one-line description above the bullets on any role.
 
 Desired:
 
@@ -122,11 +117,11 @@ Desired:
 
     Severn Trent Water: Web and mobile development and support in a FTSE 100 company, in Java and C# .NET on SQL Server.
 
-Status: change pending
+Status: bullets in sync; descriptions optional
 
 ## Skills
 
-Live (read on 2026-10-13; LinkedIn only shows the first two per role without opening each one):
+Live (read on 2026-10-13; LinkedIn only shows the first two per role without opening each one; the profile has no separate Skills section showing):
 
     Songtradr: no skills.
     Engineius: TypeScript, Angular and 5 more.
@@ -176,10 +171,10 @@ Status: change pending
 
 Live:
 
-    TODO (image, not read)
+    The moonlit banner ("Full-stack · Cloud · Mobile"), read 2026-10-13.
 
 Desired:
 
     banner.svg in this folder, exported by make exports to banner.export.png (1584x396).
 
-Status: change pending
+Status: in sync
