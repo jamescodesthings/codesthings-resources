@@ -130,8 +130,10 @@ Desired:
     The first two of each line show on the profile, so they lead. Where LinkedIn's suggestion is named slightly
     differently, pick its version.
     Remove a skill from a role when it isn't on that line and wasn't true there (Apache Cordova is the one to check).
-    Top skills, in the About section (five): Node.js, .NET, Google Cloud Platform (GCP), Amazon Web Services (AWS), TypeScript.
-    These match the headline, so a recruiter's search and the first line of the profile agree.
+    Top skills, in the About section (five): Node.js, .NET Core, Google Cloud Platform (GCP), Amazon Web Services (AWS),
+    TypeScript. These match the headline, so a recruiter's search and the first line of the profile agree. Live since
+    2026-10-14. LinkedIn's plain ".NET" skill displays as ".NETMicrosoft .NET", so .NET Core stands in for it. Top skills
+    sit in the About editor below the text: scroll the dialog itself to reach them.
 
 Status: change pending
 
