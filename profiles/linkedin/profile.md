@@ -78,26 +78,19 @@ Status: change pending
 
 ## Featured
 
-Live:
+Live (2026-10-14): empty. James removed every item to start again.
 
-    1. Link "CV - Online" (codesthings.com): "You can see my CV here. For everyone who likes dark mode; it has a dark mode."
-    2. Media "CV - Print PDF": "You can download the print copy of my CV in PDF format here. If you're looking for a copy that's safe to send to others please let me know." (old uploaded PDF, may contain the phone number)
-    3. Link "Personal Website - CodesThings.com": "You can keep up with what I'm up to, and check out some of my side projects at CodesThings.com There's more in draft at the moment; be sure to check back!"
+Desired: a new set is being drafted separately (suggestions so far: View CV, CampSnap filters with a preview image,
+the launch post once it exists, codesthings.com).
 
-Desired:
-
-    1. Link "View CV" -> https://codesthings.com/cv
-    2. Remove "CV - Print PDF" (old uploaded file)
-    3. Link "Personal Website - CodesThings.com" -> https://codesthings.com (text unchanged)
-
-Status: change pending
+Status: being redrafted
 
 ## Experience
 
-Live (read 2026-10-13):
+Live (2026-10-14):
 
     Bullets on all four roles match experience.md word for word.
-    No one-line description above the bullets on any role.
+    The one-line description below sits above the bullets on every role.
 
 Desired:
 
@@ -113,29 +106,22 @@ Desired:
 
     Severn Trent Water: Web and mobile development and support in a FTSE 100 company, in Java and C# .NET on SQL Server.
 
-Status: bullets in sync; descriptions optional
+Status: in sync
 
 ## Skills
 
-Live (read on 2026-10-13; LinkedIn only shows the first two per role without opening each one; the profile has no separate Skills section showing):
+Live (2026-10-14):
 
-    Songtradr: no skills.
-    Engineius: TypeScript, Angular and 5 more.
-    Packt: Apache Cordova, Microservices and 5 more.
-    Severn Trent Water: Apache Cordova, .NET Framework and 4 more.
+    Every role carries its Skills line from experience.md. Existing skills stay first on Engineius, Packt and Severn
+    Trent, because LinkedIn can't reorder them. Apache Cordova is off Packt and Severn Trent.
+    LinkedIn names that differ from skills.json: OpenSearch is "Search" (no OpenSearch skill exists), Apache Solr is
+    "Solr", Extreme Programming (XP) is "Extreme Programming", Capacitor is "Capacitor JS", Docker is "Docker
+    Products", Microsoft SQL Server is the existing "SQL Server", Mobile Device Management (MDM) is "Mobile Device
+    Management", and .NET is ".NET Core" (LinkedIn's plain .NET skill displays as ".NETMicrosoft .NET").
+    Top skills, in the About section: Node.js, .NET Core, Google Cloud Platform (GCP), Amazon Web Services (AWS),
+    TypeScript. They match the headline. To edit them, open About's pencil and scroll the dialog itself past the text.
 
-Desired:
-
-    Per role: the Skills line under each role in experience.md, generated from skills.json plus the CV's tech badges.
-    The first two of each line show on the profile, so they lead. Where LinkedIn's suggestion is named slightly
-    differently, pick its version.
-    Remove a skill from a role when it isn't on that line and wasn't true there (Apache Cordova is the one to check).
-    Top skills, in the About section (five): Node.js, .NET Core, Google Cloud Platform (GCP), Amazon Web Services (AWS),
-    TypeScript. These match the headline, so a recruiter's search and the first line of the profile agree. Live since
-    2026-10-14. LinkedIn's plain ".NET" skill displays as ".NETMicrosoft .NET", so .NET Core stands in for it. Top skills
-    sit in the About editor below the text: scroll the dialog itself to reach them.
-
-Status: change pending
+Status: in sync
 
 ## Beyond skills
 
@@ -145,25 +131,21 @@ Suggestions, in order of how much they help a senior or principal remote search:
     Endorsements: ask two or three former colleagues to endorse the five top skills.
     Open to Work: recruiters only, titles Senior Software Engineer, Principal Software Engineer, Senior Full
     Stack Engineer and Senior Backend Engineer, remote, United Kingdom.
-    Projects section: the CampSnap filter packs (https://codesthings.com/campsnap), the NativeScript plugins
-    (https://www.npmjs.com/~jamescodesthings) and codesthings.com, each with its own skills.
+    Projects section: live since 2026-10-14 with CampSnap Filters (linked to codesthings.com/campsnap),
+    codesthings.com (linked) and NativeScript plugins (associated with Engineius; LinkedIn would not attach the npm link).
     Skill assessments: none to do; LinkedIn withdrew them in 2023.
 
 Status: suggestion
 
 ## Education
 
-Live:
+Live (2026-10-14):
 
-    Coventry University, BSc Computer Science, 2009 to 2012, grade 2.1. Activities text is informal.
-    Caroline Chisholm, A Levels, 2004 to 2009. Long informal description that names a teacher.
+    Coventry University, Bachelor of Science (BSc), Computer Science, 2009 to 2012, grade 2.1 with Honours.
+    Description "BSc. Computer Science". No activities.
+    Caroline Chisholm School, A Levels, 3 A Levels including Computing, and 11 GCSEs, 2002 to 2009. No description.
 
-Desired:
-
-    Coventry University, BSc Computer Science (G400), 2009 to 2012, 2.1 with Honours. Activities: none.
-    Caroline Chisholm School, 3 A Levels including Computing, and 11 GCSEs, 2002 to 2009. Description: none.
-
-Status: change pending
+Status: in sync
 
 ## Banner
 
