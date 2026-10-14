@@ -141,7 +141,7 @@ Status: in sync
 
 Live:
 
-    The first moonlit banner ("Full-stack · Cloud · Mobile" in Space Grotesk over a grid), read 2026-10-14.
+    The redrawn banner from banner.svg, uploaded by James and read 2026-10-14.
 
 Desired:
 
@@ -149,4 +149,4 @@ Desired:
     the hero's dot field lit around the moon, and the sundial mark beside codesthings.com.
     make exports writes banner.export.png (1584x396) to upload.
 
-Status: redrawn, to upload
+Status: in sync
