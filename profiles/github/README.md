@@ -10,4 +10,4 @@ Most of my professional work lives in private company repositories. What's publi
 - **[campsnap](https://github.com/jamescodesthings/campsnap)**: filter packs for the CampSnap camera, used by photographers worldwide.
 
 Outside work: photography, 3D printing, FPV drones and hardware tinkering.
-Open to senior remote roles.
+Open to senior or principal remote roles.

@@ -52,7 +52,7 @@ Live (read 2026-10-13; the Songtradr sentence is already fixed, the location is 
 
     I work across the stack in Node.js, C#/.NET, on GCP and AWS. I like XP, pairing, simple solutions, and helping the people around me improve, which lately includes adopting AI coding tools safely.
 
-    Open to senior remote roles.
+    Open to senior or principal remote roles.
 
 Desired:
 
@@ -141,12 +141,12 @@ Status: change pending
 
 ## Beyond skills
 
-Suggestions, in order of how much they help a senior remote search:
+Suggestions, in order of how much they help a senior or principal remote search:
 
     Recommendations: ask one person from Songtradr and one from Engineius for a short written recommendation.
     Endorsements: ask two or three former colleagues to endorse the five top skills.
-    Open to Work: recruiters only, titles Senior Software Engineer, Senior Full Stack Engineer and Senior Backend
-    Engineer, remote, United Kingdom.
+    Open to Work: recruiters only, titles Senior Software Engineer, Principal Software Engineer, Senior Full
+    Stack Engineer and Senior Backend Engineer, remote, United Kingdom.
     Projects section: the CampSnap filter packs (https://codesthings.com/campsnap), the NativeScript plugins
     (https://www.npmjs.com/~jamescodesthings) and codesthings.com, each with its own skills.
     Skill assessments: none to do; LinkedIn withdrew them in 2023.
