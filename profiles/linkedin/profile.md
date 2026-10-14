@@ -42,9 +42,9 @@ Status: in sync
 
 ## About
 
-Live (read 2026-10-13; the Songtradr sentence is already fixed, the location is not):
+Live (read 2026-10-14):
 
-    Senior Software Engineer with 14 years across web, mobile and cloud, based in Birmingham and working remotely.
+    Senior Software Engineer with 14 years across web, mobile and cloud, based in Coventry and working remotely.
 
     At Songtradr I worked on the platform that ingests and delivers music across the industry. I re-engineered ingestion from 250k to over a million releases a day, built search that returned high quality sub-second results, and implemented a metadata store that took load off a database costing 30k a month.
 
@@ -52,14 +52,9 @@ Live (read 2026-10-13; the Songtradr sentence is already fixed, the location is 
 
     I work across the stack in Node.js, C#/.NET, on GCP and AWS. I like XP, pairing, simple solutions, and helping the people around me improve, which lately includes adopting AI coding tools safely.
 
-    Open to senior remote roles.
+    Open to senior or principal remote roles.
 
-Desired:
-
-    Your live text, with "based in Birmingham" changed to "based in Coventry" and the last line changed to "Open to
-    senior or principal remote roles." The Songtradr sentence is fine as it is.
-
-Status: change pending
+Status: in sync
 
 ## Contact info
 
