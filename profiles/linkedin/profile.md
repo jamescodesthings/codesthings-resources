@@ -58,23 +58,13 @@ Status: in sync
 
 ## Contact info
 
-Live (read 2026-10-13):
+Live (2026-10-14): profile URL, website codesthings.com, address, email and birthday. No phone number (checked from
+the owner's view). James set the email and birthday visibility himself on 2026-10-14; the owner's view can't confirm
+what others see.
 
-    Website: codesthings.com (Personal)
-    Phone: a mobile number is listed
-    Address: Coventry, England, United Kingdom
-    Email: the personal Gmail address
-    Birthday: shown
+Desired: as live. No phone number anywhere is a standing rule; james@codesthings.com is the only public contact.
 
-Desired:
-
-    Website: codesthings.com (Personal), as now.
-    Phone: removed. No phone number anywhere is a standing rule.
-    Email: james@codesthings.com, the only public contact, or hide the email from everyone but connections.
-    Birthday: visible to "Only you".
-    Address: leave as it is, or remove; the Location field already says Coventry.
-
-Status: change pending
+Status: in sync
 
 ## Featured
 
