@@ -70,10 +70,10 @@ Status: in sync
 
 Live (2026-10-14): empty. James removed every item to start again.
 
-Desired: a new set is being drafted separately (suggestions so far: View CV, CampSnap filters with a preview image,
-the launch post once it exists, codesthings.com).
+Desired: the four items in featured.md (View CV, the launch post once it's live, CampSnap Pro filters,
+codesthings.com), with their titles and descriptions.
 
-Status: being redrafted
+Status: drafted, to add
 
 ## Experience
 
@@ -141,10 +141,12 @@ Status: in sync
 
 Live:
 
-    The moonlit banner ("Full-stack · Cloud · Mobile"), read 2026-10-13.
+    The first moonlit banner ("Full-stack · Cloud · Mobile" in Space Grotesk over a grid), read 2026-10-14.
 
 Desired:
 
-    banner.svg in this folder, exported by make exports to banner.export.png (1584x396).
+    banner.svg in this folder, redrawn 2026-10-14 in the site's current style: Bricolage Grotesque and Geist Mono,
+    the hero's dot field lit around the moon, and the sundial mark beside codesthings.com.
+    make exports writes banner.export.png (1584x396) to upload.
 
-Status: in sync
+Status: redrawn, to upload

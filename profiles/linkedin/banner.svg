@@ -1,38 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396">
-  <!-- LinkedIn profile banner in the moonlit-night palette. The left third stays empty because the profile photo covers it.
-       The faint arc is the path the light takes across the sites; the moon sits just past its highest point. -->
+  <!-- LinkedIn profile banner in the moonlit-night palette, drawn like the codesthings.com hero: the same dot field,
+       fonts and sundial mark. The left third stays quiet because the profile photo covers it.
+       The dotted arc is the path the light takes across the sites; the moon sits just past its highest point and
+       lights the dots around it, as the sun does in the hero. -->
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=Space+Grotesk:wght@700&amp;display=swap');
-      .label { font: 500 18px 'JetBrains Mono', monospace; letter-spacing: 0.2em; fill: #a9bce0; }
-      .title { font: 700 64px 'Space Grotesk', sans-serif; letter-spacing: -0.01em; fill: #f0ece4; }
-      .stack { font: 400 20px 'JetBrains Mono', monospace; fill: #9ca3af; }
+      @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&amp;family=Geist+Mono:wght@400;500&amp;display=swap');
+      .label { font: 500 19px 'Geist Mono', monospace; letter-spacing: 0.06em; fill: #a9bce0; }
+      .title { font: 700 66px 'Bricolage Grotesque', sans-serif; letter-spacing: -0.005em; fill: #f0ece4; }
+      .stack { font: 400 21px 'Geist Mono', monospace; fill: #9ca3af; }
       .sep { fill: #a9bce0; }
     </style>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#1a1e2d" stroke-width="1" />
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#d4d8e2" />
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0.28" stop-color="#fff" stop-opacity="0" />
-      <stop offset="0.7" stop-color="#fff" stop-opacity="1" />
-    </linearGradient>
-    <mask id="grid-mask">
-      <rect width="1584" height="396" fill="url(#fade)" />
-    </mask>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#e6ecf7" stop-opacity="0.10" />
-      <stop offset="0.6" stop-color="#e6ecf7" stop-opacity="0" />
+    <radialGradient id="moonlight" cx="1188" cy="78" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="1" />
+      <stop offset="1" stop-color="#fff" stop-opacity="0" />
     </radialGradient>
+    <mask id="lit">
+      <rect width="1584" height="396" fill="url(#moonlight)" />
+    </mask>
   </defs>
 
   <rect width="1584" height="396" fill="#090b12" />
-  <rect width="1584" height="396" fill="url(#grid)" mask="url(#grid-mask)" />
-  <ellipse cx="1214" cy="436" rx="450" ry="300" fill="url(#glow)" />
-  <path d="M 640 420 Q 1112 -300 1584 420" fill="none" stroke="#e6ecf7" stroke-opacity="0.14" stroke-width="1.5" stroke-dasharray="2 10" stroke-linecap="round" />
-  <circle cx="1188" cy="69" r="7" fill="#e6ecf7" fill-opacity="0.9" />
-  <circle cx="1188" cy="69" r="22" fill="#e6ecf7" fill-opacity="0.06" />
+  <rect width="1584" height="396" fill="url(#dots)" opacity="0.05" />
+  <rect width="1584" height="396" fill="url(#dots)" opacity="0.4" mask="url(#lit)" />
+  <path d="M 640 420 Q 1112 -284 1584 420" fill="none" stroke="#e6ecf7" stroke-opacity="0.16" stroke-width="1.5" stroke-dasharray="2 10" stroke-linecap="round" />
+  <circle cx="1188" cy="78" r="7" fill="#e6ecf7" />
 
-  <text class="label" x="1488" y="144" text-anchor="end">CODESTHINGS.COM</text>
-  <text class="title" x="1488" y="219" text-anchor="end">Full-stack · Cloud · Mobile</text>
-  <text class="stack" x="1488" y="265" text-anchor="end">Node.js <tspan class="sep">/</tspan> .NET <tspan class="sep">/</tspan> GCP <tspan class="sep">/</tspan> AWS</text>
+  <g transform="translate(1266 123)" fill="none" stroke="#a9bce0" stroke-width="1.75" stroke-linecap="round">
+    <path d="M3 18h18" />
+    <path d="M5 18a7 7 0 0 1 14 0" />
+    <path d="M12 11v1.5M7.05 13.05l1.06 1.06M16.95 13.05l-1.06 1.06" />
+    <path d="M12 18v-4.5" />
+  </g>
+  <text class="label" x="1488" y="144" text-anchor="end">codesthings.com</text>
+  <text class="title" x="1488" y="221" text-anchor="end">Full-stack · Cloud · Mobile</text>
+  <text class="stack" x="1488" y="267" text-anchor="end">Node.js <tspan class="sep">·</tspan> .NET <tspan class="sep">·</tspan> GCP <tspan class="sep">·</tspan> AWS</text>
 </svg>
