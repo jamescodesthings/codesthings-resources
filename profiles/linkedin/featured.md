@@ -21,7 +21,7 @@ post, and pick it from the list. Drag to reorder.
 
 ## 2. Launch post
 
-- The post in `posts/2026-10-launch/`, once it's live.
+- The post in `posts/2026-10-launch/`, posted 15 October 2026. Not yet in Featured (checked 15 October 2026).
 
 ## 3. CampSnap Pro filters
 
