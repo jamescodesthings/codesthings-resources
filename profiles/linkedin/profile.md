@@ -68,13 +68,13 @@ Status: in sync
 
 ## Featured
 
-Live (2026-10-15): View CV, CampSnap Pro Filters, codesthings.com, each with the title and description from
+Live (2026-10-15): View CV, the launch post, CampSnap Pro Filters, codesthings.com, the links each with the title and description from
 featured.md and the night-sky share card (the CampSnap item shows its own cover).
 
-Desired: the four items in featured.md (View CV, the launch post once it's live, CampSnap Pro filters,
+Desired: the four items in featured.md (View CV, the launch post, CampSnap Pro filters,
 codesthings.com), with their titles and descriptions.
 
-Status: in sync, except the launch post, which goes in second place once it's posted
+Status: in sync
 
 ## Experience
 

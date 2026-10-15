@@ -46,4 +46,4 @@ Paste one per image under "Alt text" when attaching.
 - No hashtags. They add little reach now and read as filler on a post like this.
 - The links stay in the body. LinkedIn may show the post to fewer people than if the link were in the first comment,
   but the link is the point of the post.
-- Add it to Featured as item 2 (see `../../featured.md`).
+- In Featured as item 2 since 15 October 2026 (see `../../featured.md`).
