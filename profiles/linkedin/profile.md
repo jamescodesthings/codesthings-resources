@@ -1,7 +1,7 @@
 ---
 platform: linkedin
 url: https://www.linkedin.com/in/jamescodesthings/
-live_read: 2026-10-13
+live_read: 2026-10-14
 ---
 
 ## Name
