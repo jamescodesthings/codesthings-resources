@@ -7,40 +7,25 @@ images: 1-home-night.png, 2-cv-day.png, 3-home-phone-day.png, 4-cv-phone-night.p
 
 # Launch post: the new CV and site
 
-Post as an image post with the four screenshots in order. Paste one option below as written; the line breaks are
-deliberate, because LinkedIn shows the first three lines before "see more".
+1. Click add post
+2. Select Image post
+3. Add the images and Alt text in [#image-alt-text]
+4. Post the [#text] as the body
+5. Ship It!
 
 ## Text
 
-### Draft 1
+For the last few years, my website has been trying to keep up with my trail. A project added here, a page dropped there, while new ideas kept arriving faster than I could give them a home.
 
-    I'd been adding to my corner of the web, a project here, a page there, until it stopped feeling like one thing. Ideas arrive faster than I finish them, and the site never caught up. So I stopped, took stock, and gave it my time.
+This week I let it catch its breath.
 
-    codesthings.com follows the day. I designed one slow arc of light to cross the page every sixteen seconds. Buttons and cards catch it as it passes, my photo glows like a sun rising and setting, and switching to night fades like dusk, from warm paper and ink to moonlit blue and silver. A small sundial is the mark.
+Now one slow arc of light crosses the page every sixteen seconds, and each arc is a day. The elements catch it as it passes. The avatar rises and sets like a small sun. When night comes, the page fades like dusk, from warm paper and ink to moonlit blue and silver. All of it is anchored by the sundial that started the idea.
 
-    At that pace fourteen years go by in about a day, which is roughly how it felt. The CV at codesthings.com/cv is the whole of them, web, mobile and cloud. Read it online, or download a copy. It looks at the whole, not one role.
+At that pace, fourteen years go by in a single day.
 
-    I'm open to senior or principal remote roles, at this moment in time, until I next slow down to take stock. If this makes you stop to take stock of your own fleeting moments, spend one on mine at codesthings.com.
+That is about how it feels when I look back at everything I’ve built. Years of work, and I can watch all of it pass before dinner.
 
-### Draft 2
-
-    I'd been adding to my corner of the web, a project here, a page there, until it stopped feeling like one thing. Ideas arrive faster than I finish them, and the site never caught up. A rare gap opened, so I took stock and gave the site my time.
-
-    codesthings.com follows the day. I designed one slow arc of light to cross the page every sixteen seconds. Buttons and cards catch it as it passes, my photo glows like a sun rising and setting, and switching to night fades like dusk, from warm paper and ink to moonlit blue and silver. A small sundial is the mark.
-
-    At that pace fourteen years go by in about a day, which is roughly how it felt. The CV at codesthings.com/cv is the whole of them, web, mobile and cloud. Read it online, or download a copy. It takes the long view, not just this month's.
-
-    I'm open to senior or principal remote roles. That's where I am, until I next slow down to take stock. If this has you pausing over your own fleeting moments, borrow a few of mine at codesthings.com.
-
-### Draft 3
-
-    I'd been adding to my corner of the web, a project here, a page there, until it stopped feeling like one thing. Ideas arrive faster than I finish them, and the site never caught up. This time I slowed down and gave my portfolio my time.
-
-    codesthings.com follows the day. I designed one slow arc of light to cross the page every sixteen seconds. Buttons and cards catch it as it passes, my photo glows like a sun rising and setting, and switching to night fades like dusk, from warm paper and ink to moonlit blue and silver. A small sundial is the mark.
-
-    At that pace fourteen years go by in about a day, which is roughly how it felt. The CV at codesthings.com/cv is the whole of them, web, mobile and cloud. Read it online, or download a copy. It looks at the whole arc, not just this moment.
-
-    I'm open to senior or principal remote roles, for this moment, until the next one comes round. If this has you stopping to take stock of your own fleeting moments, spend one on mine at codesthings.com.
+Come and watch a few days go by with me: codesthings.com
 
 ## Image alt text
 
