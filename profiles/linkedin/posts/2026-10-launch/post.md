@@ -12,29 +12,35 @@ deliberate, because LinkedIn shows the first three lines before "see more".
 
 ## Text
 
-### Option A
+### Option 1
 
-    For a while now I've been adding to my corner of the web, a project here, a page there, and it had started to feel like several sites wearing one name. So I've pulled it all into one place that feels like me.
+    A whole day passes on my website every sixteen seconds. At that pace a week goes in a couple of minutes, a month before you've finished your coffee, and a year in about the length of a film. It's happening before you stop to think about it.
 
-    codesthings.com follows the day. Warm paper and ink in daylight, moonlit blue and silver after dark, and a small sundial as the mark. One slow arc of light crosses the page, with buttons and cards catching it as it passes. Slow on purpose, the kind of thing you only miss when it's gone.
+    I designed and built codesthings.com around that. One slow arc of light crosses the page, buttons and cards catch it as it passes, and my photo glows like a sun rising and setting. By day it's sundial, warm paper and near-black ink. Switch to night and it fades like dusk into moonlit blue and silver.
 
-    Inside there's work, things I've made, photos and a blog, and the CampSnap Pro filters at codesthings.com/campsnap. The CV is the whole picture at last, fourteen years across web, mobile and cloud, at codesthings.com/cv as a page or a PDF that prints properly.
+    I'm always in the moment, pushing on, and the site is my homage to the moments I don't stop for. Inside there's work, things I've made, photos, a blog and my CampSnap Pro filters at codesthings.com/campsnap.
+
+    I'm open to senior or principal remote roles. Have a look round codesthings.com, and start with the CV at codesthings.com/cv, fourteen years across web, mobile and cloud.
+
+### Option 2
+
+    I'd been adding to my corner of the web, a project here, a page there, until it stopped feeling like one thing. Ideas arrive faster than I finish them, and the site never caught up. So I rebuilt it around what they all share, which is time passing.
+
+    codesthings.com follows the day. I designed one slow arc of light to cross the page every sixteen seconds. Buttons and cards catch it as it passes, my photo glows like a sun rising and setting, and switching to night fades like dusk, from warm paper and ink to moonlit blue and silver. A small sundial is the mark.
+
+    At that pace fourteen years go by in about a day, which is roughly how it felt. The CV at codesthings.com/cv is the whole of them, web, mobile and cloud, as a page or a printable PDF. Every CV before it was cut to fit one role.
 
     I'm open to senior or principal remote roles. Have a look round, and start with the CV.
 
-### Option B
+### Option 3
 
-    My website has a sun now. It rises over the page, buttons and cards catch the light as it passes, and when you switch to night it fades to moonlit blue and silver, like dusk.
+    I never stop to look back. There's always the next feature, the next print, the next idea, and the last one slips past before I notice it's done. My website is my homage to those moments.
 
-    I'd been adding to codesthings.com for a while, a project at a time, and it had stopped feeling like one site. So I rebuilt it around one idea, the movement of a day, with a small sundial as the mark and a layout made for phones first.
+    I designed and built codesthings.com so you can watch time pass. One arc of light crosses the page every sixteen seconds, a whole day. Buttons and cards catch it on the way, my photo glows like a sun rising and setting. A week passes in a couple of minutes, a month in the time it takes to make a drink. By day it's warm paper and near-black ink. Night fades in like dusk, moonlit blue and silver.
 
-    What's there now:
+    Everything on it is time I spent somewhere. Fourteen years of work across web, mobile and cloud. 3D-printed designs on MakerWorld, a ZeroCalc handheld, photos, a blog and the CampSnap Pro filters at codesthings.com/campsnap.
 
-    • Work, and things I make. 3D-printed designs on MakerWorld, a ZeroCalc handheld, photos and a blog.
-    • The CampSnap Pro filters, Lab Archive, Vol. I, at codesthings.com/campsnap.
-    • The CV at codesthings.com/cv, fourteen years across web, mobile and cloud, as a page or a PDF that prints properly.
-
-    Have a look round. I'm open to senior or principal remote roles, so if you're hiring, the CV is the place to start.
+    I'm open to senior or principal remote roles. Have a look round codesthings.com, and start with the CV at codesthings.com/cv.
 
 ## Image alt text
 
