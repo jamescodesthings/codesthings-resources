@@ -68,12 +68,13 @@ Status: in sync
 
 ## Featured
 
-Live (2026-10-14): empty. James removed every item to start again.
+Live (2026-10-15): View CV, CampSnap Pro Filters, codesthings.com, each with the title and description from
+featured.md and the night-sky share card (the CampSnap item shows its own cover).
 
 Desired: the four items in featured.md (View CV, the launch post once it's live, CampSnap Pro filters,
 codesthings.com), with their titles and descriptions.
 
-Status: drafted, to add
+Status: in sync, except the launch post, which goes in second place once it's posted
 
 ## Experience
 
