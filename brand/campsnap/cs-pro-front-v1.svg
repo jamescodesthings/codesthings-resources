@@ -1,0 +1,31 @@
+<!-- The CampSnap Pro front view used on codesthings.com/campsnap in October 2026, before the blueprint redraw. Kept for the Camp Snap 2 work. -->
+<svg viewBox="0 0 180 72" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+      
+      <rect x="4" y="14" width="112" height="54" rx="8" />
+      <path d="M12 14v-3h96v3" />
+      <rect x="88" y="6" width="14" height="5" rx="2" />
+      <rect x="12" y="22" width="22" height="10" rx="2" />
+      <path d="M17 30l5-6M24 30l5-6" />
+      <rect x="80" y="22" width="16" height="11" rx="2" />
+      <circle cx="46" cy="44" r="17" />
+      <circle cx="46" cy="44" r="11" />
+      <circle cx="46" cy="44" r="5" />
+      <path d="M43.2 42.2a3.4 3.4 0 0 1 2.6-1.6" />
+      <rect x="0" y="24" width="4" height="8" rx="1" />
+      <circle cx="98" cy="52" r="9" />
+      <path d="M98 52L93.4 47.4" />
+      
+      
+      <path d="M90.58 44.58L88.81 42.81" />
+      <path d="M88.81 42.81L122 20H126" stroke-width="1" />
+      
+      <path d="M98 41.5L98 39" />
+      <path d="M98 39L122 31H126" stroke-width="1" />
+      
+      <path d="M105.42 44.58L107.19 42.81" />
+      <path d="M107.19 42.81L122 42H126" stroke-width="1" />
+      
+      <path d="M108.5 52L111 52" />
+      <path d="M111 52L122 53H126" stroke-width="1" />
+      
+    </svg>
